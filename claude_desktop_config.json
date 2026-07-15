@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "test-mcp": {
+      "command": "dotnet",
+      "args": [
+        "C:\\path_to_your_McpServer\\McpServer.dll"
+      ]
+    }
+  }
+}

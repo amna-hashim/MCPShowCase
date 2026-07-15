@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/examples/">
+    <File Path="claude_desktop_config.json" />
+    <File Path="sample-queries.md" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="McpClient/McpClient.csproj" />
+    <Project Path="McpServer/McpServer.csproj" />
+  </Folder>
+</Solution>
